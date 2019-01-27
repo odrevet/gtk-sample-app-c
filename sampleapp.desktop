@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=sampleapp
+Exec=sampleapp
+Icon=sampleapp.png
+Type=Application
+Encoding=UTF-8
+Categories=GTK;GNOME;Utility;
+Terminal=false

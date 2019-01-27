@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<schemalist>
+  <schema id="sampleapp" path="/sampleapp/">
+    <key name="message" type="s">
+      <default>'value loaded from settings'</default>
+    </key>
+  </schema>
+</schemalist>

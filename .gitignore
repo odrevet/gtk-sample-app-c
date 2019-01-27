@@ -1,0 +1,17 @@
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+bin
+config.h
+gschemas.compiled
+*~
+CPackConfig.cmake
+CPackSourceConfig.cmake
+_CPack_Packages/
+*-win32.exe
+*.dll.a
+resources/NSIS/NSIS.definitions.nsh
+CopyOfCMakeCache.txt
